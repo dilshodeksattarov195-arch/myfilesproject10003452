@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordereecrypt",
+        "uuid": 25997012,
+        "checksum": "o0uyvl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
